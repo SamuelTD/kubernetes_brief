@@ -3,7 +3,9 @@
 Je me suis servi de l'installation Kubernetes de mon Docker Desktop pour faire tourner le projet en local. Les images ont été build depuis les dockerfiles dans les repo api et db fournis. Le fichier init.sql a été légèrement retouché pour coller à mes configurations .yaml.
 
 
+Voici mes réponses aux questions :
 
+__
 
 
 # Volume et persistance
